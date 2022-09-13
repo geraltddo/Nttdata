@@ -1,0 +1,17 @@
+E:\OneDrive\Documents\NTTDATA\Solucion\Application.Interface\bin\Debug\netstandard2.1\Application.Interface.deps.json
+E:\OneDrive\Documents\NTTDATA\Solucion\Application.Interface\bin\Debug\netstandard2.1\Application.Interface.dll
+E:\OneDrive\Documents\NTTDATA\Solucion\Application.Interface\bin\Debug\netstandard2.1\Application.Interface.pdb
+E:\OneDrive\Documents\NTTDATA\Solucion\Application.Interface\bin\Debug\netstandard2.1\Application.DTO.dll
+E:\OneDrive\Documents\NTTDATA\Solucion\Application.Interface\bin\Debug\netstandard2.1\Common.dll
+E:\OneDrive\Documents\NTTDATA\Solucion\Application.Interface\bin\Debug\netstandard2.1\Domain.Entity.dll
+E:\OneDrive\Documents\NTTDATA\Solucion\Application.Interface\bin\Debug\netstandard2.1\Application.DTO.pdb
+E:\OneDrive\Documents\NTTDATA\Solucion\Application.Interface\bin\Debug\netstandard2.1\Common.pdb
+E:\OneDrive\Documents\NTTDATA\Solucion\Application.Interface\bin\Debug\netstandard2.1\Domain.Entity.pdb
+E:\OneDrive\Documents\NTTDATA\Solucion\Application.Interface\obj\Debug\netstandard2.1\Application.Interface.AssemblyInfoInputs.cache
+E:\OneDrive\Documents\NTTDATA\Solucion\Application.Interface\obj\Debug\netstandard2.1\Application.Interface.AssemblyInfo.cs
+E:\OneDrive\Documents\NTTDATA\Solucion\Application.Interface\obj\Debug\netstandard2.1\Application.Interface.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\NTTDATA\Solucion\Application.Interface\obj\Debug\netstandard2.1\Application.Interface.csproj.CopyComplete
+E:\OneDrive\Documents\NTTDATA\Solucion\Application.Interface\obj\Debug\netstandard2.1\Application.Interface.dll
+E:\OneDrive\Documents\NTTDATA\Solucion\Application.Interface\obj\Debug\netstandard2.1\Application.Interface.pdb
+E:\OneDrive\Documents\NTTDATA\Solucion\Application.Interface\obj\Debug\netstandard2.1\Application.Interface.csproj.AssemblyReference.cache
+E:\OneDrive\Documents\NTTDATA\Solucion\Application.Interface\obj\Debug\netstandard2.1\Application.Interface.GeneratedMSBuildEditorConfig.editorconfig

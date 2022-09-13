@@ -1,0 +1,10 @@
+E:\OneDrive\Documents\NTTDATA\Solucion\Domain.Entity\bin\Debug\netstandard2.1\Domain.Entity.deps.json
+E:\OneDrive\Documents\NTTDATA\Solucion\Domain.Entity\bin\Debug\netstandard2.1\Domain.Entity.dll
+E:\OneDrive\Documents\NTTDATA\Solucion\Domain.Entity\bin\Debug\netstandard2.1\Domain.Entity.pdb
+E:\OneDrive\Documents\NTTDATA\Solucion\Domain.Entity\obj\Debug\netstandard2.1\Domain.Entity.AssemblyInfoInputs.cache
+E:\OneDrive\Documents\NTTDATA\Solucion\Domain.Entity\obj\Debug\netstandard2.1\Domain.Entity.AssemblyInfo.cs
+E:\OneDrive\Documents\NTTDATA\Solucion\Domain.Entity\obj\Debug\netstandard2.1\Domain.Entity.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\NTTDATA\Solucion\Domain.Entity\obj\Debug\netstandard2.1\Domain.Entity.dll
+E:\OneDrive\Documents\NTTDATA\Solucion\Domain.Entity\obj\Debug\netstandard2.1\Domain.Entity.pdb
+E:\OneDrive\Documents\NTTDATA\Solucion\Domain.Entity\obj\Debug\netstandard2.1\Domain.Entity.csproj.AssemblyReference.cache
+E:\OneDrive\Documents\NTTDATA\Solucion\Domain.Entity\obj\Debug\netstandard2.1\Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig

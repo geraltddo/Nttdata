@@ -1,0 +1,15 @@
+E:\OneDrive\Documents\NTTDATA\Solucion\Logging\bin\Debug\netstandard2.1\Logging.deps.json
+E:\OneDrive\Documents\NTTDATA\Solucion\Logging\bin\Debug\netstandard2.1\Logging.dll
+E:\OneDrive\Documents\NTTDATA\Solucion\Logging\bin\Debug\netstandard2.1\Logging.pdb
+E:\OneDrive\Documents\NTTDATA\Solucion\Logging\bin\Debug\netstandard2.1\Common.dll
+E:\OneDrive\Documents\NTTDATA\Solucion\Logging\bin\Debug\netstandard2.1\Domain.Entity.dll
+E:\OneDrive\Documents\NTTDATA\Solucion\Logging\bin\Debug\netstandard2.1\Common.pdb
+E:\OneDrive\Documents\NTTDATA\Solucion\Logging\bin\Debug\netstandard2.1\Domain.Entity.pdb
+E:\OneDrive\Documents\NTTDATA\Solucion\Logging\obj\Debug\netstandard2.1\Logging.AssemblyInfoInputs.cache
+E:\OneDrive\Documents\NTTDATA\Solucion\Logging\obj\Debug\netstandard2.1\Logging.AssemblyInfo.cs
+E:\OneDrive\Documents\NTTDATA\Solucion\Logging\obj\Debug\netstandard2.1\Logging.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\NTTDATA\Solucion\Logging\obj\Debug\netstandard2.1\Logging.csproj.CopyComplete
+E:\OneDrive\Documents\NTTDATA\Solucion\Logging\obj\Debug\netstandard2.1\Logging.dll
+E:\OneDrive\Documents\NTTDATA\Solucion\Logging\obj\Debug\netstandard2.1\Logging.pdb
+E:\OneDrive\Documents\NTTDATA\Solucion\Logging\obj\Debug\netstandard2.1\Logging.csproj.AssemblyReference.cache
+E:\OneDrive\Documents\NTTDATA\Solucion\Logging\obj\Debug\netstandard2.1\Logging.GeneratedMSBuildEditorConfig.editorconfig

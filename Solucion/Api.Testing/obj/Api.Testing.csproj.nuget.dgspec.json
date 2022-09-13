@@ -1,0 +1,638 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Api.Testing\\Api.Testing.csproj": {}
+  },
+  "projects": {
+    "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Api.Testing\\Api.Testing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Api.Testing\\Api.Testing.csproj",
+        "projectName": "Api.Testing",
+        "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Api.Testing\\Api.Testing.csproj",
+        "packagesPath": "C:\\Users\\denny\\.nuget\\packages\\",
+        "outputPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Api.Testing\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.DTO\\Application.DTO.csproj": {
+                "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.DTO\\Application.DTO.csproj"
+              },
+              "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.Main\\Application.Main.csproj": {
+                "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.Main\\Application.Main.csproj"
+              },
+              "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Common\\Common.csproj": {
+                "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Common\\Common.csproj"
+              },
+              "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Domain.Entity\\Domain.Entity.csproj": {
+                "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Domain.Entity\\Domain.Entity.csproj"
+              },
+              "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Logging\\Logging.csproj": {
+                "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Logging\\Logging.csproj"
+              },
+              "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Mapper\\Mapper.csproj": {
+                "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Mapper\\Mapper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.DTO\\Application.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.DTO\\Application.DTO.csproj",
+        "projectName": "Application.DTO",
+        "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.DTO\\Application.DTO.csproj",
+        "packagesPath": "C:\\Users\\denny\\.nuget\\packages\\",
+        "outputPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.Interface\\Application.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.Interface\\Application.Interface.csproj",
+        "projectName": "Application.Interface",
+        "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.Interface\\Application.Interface.csproj",
+        "packagesPath": "C:\\Users\\denny\\.nuget\\packages\\",
+        "outputPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.DTO\\Application.DTO.csproj": {
+                "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.DTO\\Application.DTO.csproj"
+              },
+              "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Common\\Common.csproj": {
+                "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.Main\\Application.Main.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.Main\\Application.Main.csproj",
+        "projectName": "Application.Main",
+        "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.Main\\Application.Main.csproj",
+        "packagesPath": "C:\\Users\\denny\\.nuget\\packages\\",
+        "outputPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.Main\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.DTO\\Application.DTO.csproj": {
+                "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.DTO\\Application.DTO.csproj"
+              },
+              "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.Interface\\Application.Interface.csproj": {
+                "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.Interface\\Application.Interface.csproj"
+              },
+              "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Common\\Common.csproj": {
+                "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Common\\Common.csproj"
+              },
+              "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Domain.Entity\\Domain.Entity.csproj": {
+                "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Domain.Entity\\Domain.Entity.csproj"
+              },
+              "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Domain.Interface\\Domain.Interface.csproj": {
+                "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Domain.Interface\\Domain.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\denny\\.nuget\\packages\\",
+        "outputPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Domain.Entity\\Domain.Entity.csproj": {
+                "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Domain.Entity\\Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Domain.Entity\\Domain.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Domain.Entity\\Domain.Entity.csproj",
+        "projectName": "Domain.Entity",
+        "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Domain.Entity\\Domain.Entity.csproj",
+        "packagesPath": "C:\\Users\\denny\\.nuget\\packages\\",
+        "outputPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Domain.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Domain.Interface\\Domain.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Domain.Interface\\Domain.Interface.csproj",
+        "projectName": "Domain.Interface",
+        "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Domain.Interface\\Domain.Interface.csproj",
+        "packagesPath": "C:\\Users\\denny\\.nuget\\packages\\",
+        "outputPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Domain.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.DTO\\Application.DTO.csproj": {
+                "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.DTO\\Application.DTO.csproj"
+              },
+              "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Common\\Common.csproj": {
+                "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Common\\Common.csproj"
+              },
+              "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Domain.Entity\\Domain.Entity.csproj": {
+                "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Domain.Entity\\Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Logging\\Logging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Logging\\Logging.csproj",
+        "projectName": "Logging",
+        "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Logging\\Logging.csproj",
+        "packagesPath": "C:\\Users\\denny\\.nuget\\packages\\",
+        "outputPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Logging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Common\\Common.csproj": {
+                "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Mapper\\Mapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Mapper\\Mapper.csproj",
+        "projectName": "Mapper",
+        "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Mapper\\Mapper.csproj",
+        "packagesPath": "C:\\Users\\denny\\.nuget\\packages\\",
+        "outputPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Mapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\denny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.DTO\\Application.DTO.csproj": {
+                "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Application.DTO\\Application.DTO.csproj"
+              },
+              "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Domain.Entity\\Domain.Entity.csproj": {
+                "projectPath": "E:\\OneDrive\\Documents\\NTTDATA\\Solucion\\Domain.Entity\\Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

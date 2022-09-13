@@ -1,0 +1,17 @@
+E:\OneDrive\Documents\NTTDATA\Solucion\Infraestructure.Repository\bin\Debug\netstandard2.1\Infraestructure.Repository.deps.json
+E:\OneDrive\Documents\NTTDATA\Solucion\Infraestructure.Repository\bin\Debug\netstandard2.1\Infraestructure.Repository.dll
+E:\OneDrive\Documents\NTTDATA\Solucion\Infraestructure.Repository\bin\Debug\netstandard2.1\Infraestructure.Repository.pdb
+E:\OneDrive\Documents\NTTDATA\Solucion\Infraestructure.Repository\bin\Debug\netstandard2.1\Common.dll
+E:\OneDrive\Documents\NTTDATA\Solucion\Infraestructure.Repository\bin\Debug\netstandard2.1\Domain.Entity.dll
+E:\OneDrive\Documents\NTTDATA\Solucion\Infraestructure.Repository\bin\Debug\netstandard2.1\Infraestructure.Interface.dll
+E:\OneDrive\Documents\NTTDATA\Solucion\Infraestructure.Repository\bin\Debug\netstandard2.1\Common.pdb
+E:\OneDrive\Documents\NTTDATA\Solucion\Infraestructure.Repository\bin\Debug\netstandard2.1\Domain.Entity.pdb
+E:\OneDrive\Documents\NTTDATA\Solucion\Infraestructure.Repository\bin\Debug\netstandard2.1\Infraestructure.Interface.pdb
+E:\OneDrive\Documents\NTTDATA\Solucion\Infraestructure.Repository\obj\Debug\netstandard2.1\Infraestructure.Repository.AssemblyInfoInputs.cache
+E:\OneDrive\Documents\NTTDATA\Solucion\Infraestructure.Repository\obj\Debug\netstandard2.1\Infraestructure.Repository.AssemblyInfo.cs
+E:\OneDrive\Documents\NTTDATA\Solucion\Infraestructure.Repository\obj\Debug\netstandard2.1\Infraestructure.Repository.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\NTTDATA\Solucion\Infraestructure.Repository\obj\Debug\netstandard2.1\Infraestructure.Repository.csproj.CopyComplete
+E:\OneDrive\Documents\NTTDATA\Solucion\Infraestructure.Repository\obj\Debug\netstandard2.1\Infraestructure.Repository.dll
+E:\OneDrive\Documents\NTTDATA\Solucion\Infraestructure.Repository\obj\Debug\netstandard2.1\Infraestructure.Repository.pdb
+E:\OneDrive\Documents\NTTDATA\Solucion\Infraestructure.Repository\obj\Debug\netstandard2.1\Infraestructure.Repository.csproj.AssemblyReference.cache
+E:\OneDrive\Documents\NTTDATA\Solucion\Infraestructure.Repository\obj\Debug\netstandard2.1\Infraestructure.Repository.GeneratedMSBuildEditorConfig.editorconfig

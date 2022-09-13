@@ -1,0 +1,15 @@
+E:\OneDrive\Documents\NTTDATA\Solucion\Mapper\bin\Debug\netstandard2.1\Application.DTO.dll
+E:\OneDrive\Documents\NTTDATA\Solucion\Mapper\bin\Debug\netstandard2.1\Domain.Entity.dll
+E:\OneDrive\Documents\NTTDATA\Solucion\Mapper\bin\Debug\netstandard2.1\Application.DTO.pdb
+E:\OneDrive\Documents\NTTDATA\Solucion\Mapper\obj\Debug\netstandard2.1\Mapper.AssemblyInfoInputs.cache
+E:\OneDrive\Documents\NTTDATA\Solucion\Mapper\obj\Debug\netstandard2.1\Mapper.AssemblyInfo.cs
+E:\OneDrive\Documents\NTTDATA\Solucion\Mapper\bin\Debug\netstandard2.1\Mapper.deps.json
+E:\OneDrive\Documents\NTTDATA\Solucion\Mapper\bin\Debug\netstandard2.1\Mapper.dll
+E:\OneDrive\Documents\NTTDATA\Solucion\Mapper\bin\Debug\netstandard2.1\Mapper.pdb
+E:\OneDrive\Documents\NTTDATA\Solucion\Mapper\bin\Debug\netstandard2.1\Domain.Entity.pdb
+E:\OneDrive\Documents\NTTDATA\Solucion\Mapper\obj\Debug\netstandard2.1\Mapper.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\NTTDATA\Solucion\Mapper\obj\Debug\netstandard2.1\Mapper.csproj.CopyComplete
+E:\OneDrive\Documents\NTTDATA\Solucion\Mapper\obj\Debug\netstandard2.1\Mapper.dll
+E:\OneDrive\Documents\NTTDATA\Solucion\Mapper\obj\Debug\netstandard2.1\Mapper.pdb
+E:\OneDrive\Documents\NTTDATA\Solucion\Mapper\obj\Debug\netstandard2.1\Mapper.csproj.AssemblyReference.cache
+E:\OneDrive\Documents\NTTDATA\Solucion\Mapper\obj\Debug\netstandard2.1\Mapper.GeneratedMSBuildEditorConfig.editorconfig
